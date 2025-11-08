@@ -1,8 +1,6 @@
 import Image from 'next/image';
 import { IconArrowRight } from '../../../public/assets/svg';
-
-
-type CardProductType = {
+interface CardProductType  {
   image: string;
   mark: string;
   item: string;
