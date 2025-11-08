@@ -1,5 +1,6 @@
 import BannerRazer from '@/components/BannerRazer';
 import CardBuyNow from '@/components/CardBuyNow';
+import CardPlayer from '@/components/CardPlayer';
 import CardsGear from '@/components/CardsGear';
 import FirstCardHeader from '@/components/FirstCardHeader';
 import Rewards from '@/components/Rewards';
@@ -23,6 +24,10 @@ export default function App() {
 
         <SectionContainer name="NOSSA LOJA">
           <CardBuyNow />
+        </SectionContainer>
+
+        <SectionContainer name="NOSSO TIME">
+         <CardPlayer/>
         </SectionContainer>
       </main>
     </div>
