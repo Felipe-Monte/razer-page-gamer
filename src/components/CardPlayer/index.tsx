@@ -5,7 +5,7 @@ const CardPlayer = () => {
     <div className="w-full h-full flex flex-col gap-3.5">
       <div className="w-full bg-[#363C57] rounded-xl h-[100px]">
         <div className="h-full border w-[150px]">
-          <Image src="/assets/img/player-1.png" alt={''} />
+          <Image src="/assets/img/player-1.png" alt={''} width={50} height={50}/>
         </div>
       </div>
     </div>
