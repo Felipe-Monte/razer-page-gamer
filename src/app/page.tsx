@@ -28,6 +28,8 @@ export default function App() {
 
         <SectionContainer name="NOSSO TIME">
          <CardPlayer/>
+         <CardPlayer/>
+         <CardPlayer/>
         </SectionContainer>
       </main>
     </div>
