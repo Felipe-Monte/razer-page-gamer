@@ -1,4 +1,4 @@
-import IconMenu from '../../../public/assets/svg';
+import IconMenu from '../../../public/assets/svg/IconMenu';
 import { Logo } from '../../../public/assets/svg/Logo';
 
 export default function Header() {

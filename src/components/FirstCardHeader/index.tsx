@@ -1,11 +1,9 @@
 import Image from 'next/image';
-import {
-  IconDiscord,
-  IconEmail,
-  IconMap,
-  IconTwitch,
-  IconX,
-} from '../../../public/assets/svg';
+import { IconDiscord } from '../../../public/assets/svg/IconDiscord';
+import { IconEmail } from '../../../public/assets/svg/IconEmail';
+import { IconMap } from '../../../public/assets/svg/IconMap';
+import { IconTwitch } from '../../../public/assets/svg/IconTwitch';
+import { IconX } from '../../../public/assets/svg/IconX';
 
 export default function FirstCardHeader() {
   return (

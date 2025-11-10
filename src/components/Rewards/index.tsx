@@ -1,4 +1,6 @@
-import { IconDol, IconTrophy, IconUser } from '../../../public/assets/svg';
+import { IconDol } from '../../../public/assets/svg/IconDol';
+import { IconTrophy } from '../../../public/assets/svg/IconTrophy';
+import { IconUser } from '../../../public/assets/svg/IconUser';
 
 interface CardItem {
   icon: React.ReactNode;

@@ -1,5 +1,6 @@
 import Image from 'next/image';
-import { IconArrowRight } from '../../../public/assets/svg';
+import { IconArrowRight } from '../../../public/assets/svg/IconArrowRight';
+
 interface CardProductType  {
   image: string;
   mark: string;
