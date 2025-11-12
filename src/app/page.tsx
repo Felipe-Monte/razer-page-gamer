@@ -12,7 +12,7 @@ export default function App() {
     <div className="w-full">
       <SocialArea />
 
-      <main className="w-full bg-[#212430] px-4">
+      <main className="w-full bg-[#212430] lg:px-40 px-4">
         <FirstCardHeader />
         <Rewards />
 
