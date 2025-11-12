@@ -27,9 +27,13 @@ export default function App() {
         </SectionContainer>
 
         <SectionContainer name="NOSSO TIME">
-         <CardPlayer/>
-         <CardPlayer/>
-         <CardPlayer/>
+         <div className='flex lg:flex-row flex-col'>
+           <CardPlayer/>
+           <CardPlayer/>
+           <CardPlayer/>
+           <CardPlayer/>
+           <CardPlayer/>
+         </div>
         </SectionContainer>
       </main>
     </div>
